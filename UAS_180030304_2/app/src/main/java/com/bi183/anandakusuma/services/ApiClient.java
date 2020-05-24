@@ -5,8 +5,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
     public static Retrofit retrofit;
-    public static final String BASE_URL  = "https://collegeworkofadi.000webhostapp.com/db_kampus/ws/api/";
-    public static final String IMAGE_URL = "https://collegeworkofadi.000webhostapp.com/db_kampus/ws/images/";
+    public static final String BASE_URL  = "https://collegeworkofadi2.000webhostapp.com/db_kampus/ws/api/";
+    public static final String IMAGE_URL = "https://collegeworkofadi2.000webhostapp.com/db_kampus/ws/images/";
 
     public static Retrofit getRetrofitInstance(){
         if (retrofit==null){

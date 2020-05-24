@@ -1,0 +1,11 @@
+Selamat datang di aplikasi database kampus saya, aplikasi ini digunakan untuk menyimpan, mencari, melihat, merubah, dan menghapus data mahasiswa yang ada di kampus.
+
+Caranya adalah dengan menekan tombol tambah yang ada di pojok kanan bawah layar, setelah itu, isi data mahasiswa.
+
+Foto profil mahasiswa akan ditambahkan sesuai dengan jenis kelaminnya, lalu tekan tombol simpan, dan data mahasiswa akan ditampilkan di menu utama.
+
+Sekarang, untuk melihat data mahasiswa, tekan profil mahasiswa yang ingin dilihat, dan jika data mahasiswa ingin dirubah, tekan dan tahan profil mahasiswa selama satu detik, lalu ubah data dinginkan, lalu tekan tombol simpan.
+
+Dan untuk menghapus data mahasiswa, tekan dan tahan profil mahasiswa selama satu detik, lalu tekan tombol tong sampah di pojok kanan atas, lalu tekan tombol hapus.
+
+Demikian aplikasi saya, semoga saya dapat nilai UAS yang bagus, dan sampai jumpa.
